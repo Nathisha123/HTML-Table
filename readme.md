@@ -1,1 +1,1 @@
-Created a table using tbody thead and border concepts.  
+Created a table using tbody, thead and border concepts.  
